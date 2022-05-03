@@ -1,4 +1,4 @@
-########################################      BY DEUS EX MACHINA      ##################################################
+#####################      BY DEUS EX MACHINA      #####################
 ##### register and set up ngrok from the instructions on the site
 ##### go to the direcory in which ngrok is  in the type"
 ./ngrok tcp $port 
@@ -45,6 +45,6 @@ Y
 ##### To do
 - offline operation on phone and information uploaded from target on connect
 
-########################################      KEEP IT AS RECEIVED      ##################################################
+#####################      KEEP IT AS RECEIVED      #####################
 
 
